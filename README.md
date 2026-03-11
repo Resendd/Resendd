@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Data Science at UFV 
+- 📊 I’m currently learning Data Science at UFV 
 - 📩 Contact email: gabrielresendeb@gmail.com
 - <div style="display: inline_block"><br>
   <img align="center" alt="Resendd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
